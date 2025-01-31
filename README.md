@@ -61,28 +61,10 @@ The **Hospital Management System (HMS)** is a full-stack web application designe
 - Backend: **Heroku / AWS / Render** (Recommended)
 - Database: **Cloud MySQL (AWS RDS / Firebase / Supabase)**
 
-## 📝 Git Workflow
-1. **Create a new branch for features:**
-   ```sh
-   git checkout -b feature-name
-   ```
-2. **Commit changes after each feature:**
-   ```sh
-   git add .
-   git commit -m "Added feature-name"
-   ```
-3. **Push to GitHub:**
-   ```sh
-   git push origin feature-name
-   ```
-4. **Create a Pull Request (PR) and merge into `main`**
-
-## 📄 License
-This project is for educational purposes only.
-
 ## 🙌 Contributors
-- **Your Name** - Full Stack Developer
-- **[Add team members if any]**
+- **Akanksha Bacharwar** 
+- **Atharva Jamdar**
+- **Dipak Ghule**
 
 ## 📧 Contact
-For any inquiries, reach out at: **your-email@example.com**
+For any inquiries, reach out at: **atharvajamdar1810@gmail.com**
