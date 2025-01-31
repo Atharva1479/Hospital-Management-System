@@ -14,7 +14,6 @@ The **Hospital Management System (HMS)** is a full-stack web application designe
 - Sign up, log in, and manage profile
 - Book and view doctor appointments
 - Search for doctors by specialization & city
-- Access blood donor information
 
 ### **🔹 Doctors**
 - Register and update profile
@@ -29,7 +28,6 @@ The **Hospital Management System (HMS)** is a full-stack web application designe
 - Secure JWT-based authentication
 - Password reset system
 - Role-based access control (Admin, Doctor, Patient)
-- Blood donor management
 
 ## 🏗 Project Setup
 ### **1️⃣ Clone the Repository**
